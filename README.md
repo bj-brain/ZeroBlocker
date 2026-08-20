@@ -15,12 +15,20 @@ Most website blockers have to stay open in the background, which uses up your co
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <p align="center">
-   <img src="Sample%202.png" width="32%" />
-  <img src="Sample%201.png" width="32%" />
-  <img src="Sample%203.png" width="32%" />
+  <img src="Sample%202.png" width="85%">
+</p>
+<br>
+
+<p align="center">
+  <img src="Sample%201.png" width="85%">
+</p>
+<br>
+
+<p align="center">
+  <img src="Sample%203.png" width="85%">
 </p>
 
 ---
