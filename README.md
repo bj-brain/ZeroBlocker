@@ -30,6 +30,11 @@ Most website blockers have to stay open in the background, which uses up your co
 <p align="center">
   <img src="Sample%203.png" width="85%">
 </p>
+
+<p align="center">
+  <img src="Sample%204.png" width="85%">
+</p>
+
 ---
 
 ## How to Install and Run
