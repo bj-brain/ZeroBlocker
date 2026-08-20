@@ -15,6 +15,16 @@ Most website blockers have to stay open in the background, which uses up your co
 
 ---
 
+## 📸 Screenshots
+
+![Sample 1](Sample_1.png)
+
+![Sample 2](Sample_2.png)
+
+![Sample 3](Sample_3.png)
+
+---
+
 ## How to Install and Run
 
 1. **Download the code** to your computer.
