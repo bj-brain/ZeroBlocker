@@ -17,11 +17,11 @@ Most website blockers have to stay open in the background, which uses up your co
 
 ## 📸 Screenshots
 
-![Sample 1](Sample_1.png)
+![Sample 1](Sample%201.png)
 
-![Sample 2](Sample_2.png)
+![Sample 2](Sample%202.png)
 
-![Sample 3](Sample_3.png)
+![Sample 3](Sample%203.png)
 
 ---
 
