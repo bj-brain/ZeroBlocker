@@ -38,5 +38,5 @@ Yes! It simply tells your computer to route those specific distracting websites 
 ---
 
 ## About Me
-Baanujan Vijayarajan — Curious Individual
+Baanujan Vijayarajan - Curious Individual
 I love building efficient, useful tools and learning about software engineering and cybersecurity.
